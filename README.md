@@ -1,2 +1,5 @@
-# ICECrimson_Analysis
-Analysis of Crimson/ICE survey
+# ICE/Crimson Survey Full Analysis
+
+To gauge Harvard students’ opinions on this issue, we sent a poll to the HODP survey group, an opt-in group Harvard College students can join to receive surveys. Of the 295 students in the HODP survey group, 118 responded. Of the students that responded, 10.2% of students identified as Hispanic and/or Latino, 7.6% as Black or African American, 34.4% as Asian, and 54.2% as White (these percentages do not add up to 100 because some respondents identified with multiple races). Since these demographics do not exactly reflect the demographics of the College, we report responses weighted by ethnicity at the end of the article. 
+
+We began the survey by asking how familiar students were with the controversy. We then asked four questions to gauge students’ opinions on a variety of issues surrounding the recent controversy. We tried to structure the questions not to encourage a specific type of response and to provide no more context than necessary: our goal was to gauge the current opinion of students, not what they would think if they were given more information. Finally, we asked respondents for any comments that they might have on the issue, which provide insight into the rationale for student responses. 
