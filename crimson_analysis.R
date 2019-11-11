@@ -25,7 +25,7 @@ make_graph <- function(x_var, title) {
   p <- ggplot(data = props, aes(Var1, Freq)) +
     geom_col(position = dodge, fill = color_scheme) +
     geom_errorbar(aes(ymin = lower, ymax = upper), position = dodge, width = 0.25) +
-    labs(title=title, subtitle = "N = 118") +
+    labs(title=title, subtitle = "N = 118",caption="Error Bars represent 95% CIs") +
     xlab("Response") +
     ylab("Proportion") + 
     scale_x_discrete(labels = function(x) str_wrap(x, width = 15)) +
@@ -95,7 +95,7 @@ make_graph_lumped <- function(x_var, title) {
   p <- ggplot(data = props, aes(Var1, Freq)) +
     geom_col(position = dodge, fill = color_scheme) +
     geom_errorbar(aes(ymin = lower, ymax = upper), position = dodge, width = 0.25) +
-    labs(title=title, subtitle = "N = 118") +
+    labs(title=title, subtitle = "N = 118",caption="Error Bars represent 95% CIs") +
     xlab("Response") +
     ylab("Proportion") + 
     scale_x_discrete(labels = function(x) str_wrap(x, width = 15)) +
